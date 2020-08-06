@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">booking</string>
+    <string name="Date_text">Date:</string>
+    <string name="Booking_text">Booking Detail</string>
+    <string name="Dates_hint">Enter the date</string>
+    <string name="Date_hint">Enter the date(dd/mm/yyyy)</string>
+    <string name="time_text">Time:</string>
+    <string name="onepm_text">1.00PM</string>
+    <string name="tenam_text">10.00AM</string>
+    <string name="firstbooktimes_text">10.00AM-10.30AM</string>
+    <string name="secondbooktime_text">10.30AM-11.00AM</string>
+    <string name="thirdbooktime_text">11.00AM-11.30AM</string>
+    <string name="fourbooktime_text">11.30AM-12.00PM</string>
+    <string name="fivebooktime_text">1.30PM-2.30PM</string>
+    <string name="sixbooktime_text">2.30PM-3.30PM</string>
+    <string name="sevenbooktime_text">3.30PM-4.00PM</string>
+    <string name="ok_text">OK</string>
+    <string name="cancle_text">Cancle</string>
+</resources>
